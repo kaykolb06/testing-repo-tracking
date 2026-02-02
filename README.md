@@ -1,2 +1,6 @@
 # testing-repo-tracking
-to do version control tracking changes and verify them
+## Week 1 - January 6, 2026
+- project initiated
+- team members assigned
+- intiital budget approved: $50,000
+- 
